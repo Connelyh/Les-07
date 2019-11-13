@@ -95,6 +95,11 @@ body {
             color: #434343
         }
 
+        #ontwerptekst {
+          text-align: center;
+          color: #434343
+        }
+
         #ontwerpfoto {
             margin-left: 60px;
         }
